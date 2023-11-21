@@ -1,0 +1,2 @@
+# gelecekhedefi
+Bu bölümü ülkemdeki yazılım sektöründe gelişime katkı sağlamak, ve uluslararası alanda söz sahibi haline getirebilmek amacıyla çalışmak için seçtim. Bir diğer sebebim ise uzun zamandır yazılımla ilgileniyor ve bu alanı gerçekten severek takip ediyor olmamdır. Gelecekteki hedeflerim kendi projemi üretmek ve bu proje üzerinden çeşitli girişimler yazarak ismimi dünyaya duyurmak ve geleceğin mesleği olan bu alanda insanlara faydalı ürünler sunabilmek istiyorum.
